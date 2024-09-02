@@ -1,0 +1,13 @@
+table{
+    border-collapse: collapse;
+    text-align: center;
+    width: 100px;
+  }
+  
+.vermelho{
+    background-color: red;
+}
+  
+.azul{
+    background-color: blue;
+}
