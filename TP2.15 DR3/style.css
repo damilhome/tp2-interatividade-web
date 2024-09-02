@@ -1,0 +1,12 @@
+#tabela{
+    text-align: center;
+    width: 250px;
+}
+
+.aprovado {
+    background-color: green;
+}
+
+.reprovado {
+    background-color: red;
+}
